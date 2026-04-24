@@ -1,1 +1,10 @@
 # RC4-vs-RSA
+**Referans 1- Makale Adı:** *Systematic Literature Review of the Role of Fuzzy Logic in the Development of Cryptographic and Steganographic Techniques*, Hari Murti, Endang Lestariningsih, Rara S. Redjeki, Eka Ardhianto, 2021, Q3–Q4 (tahmini), [Asian Journal of Research in Computer Science] : fuzzy + kriptografi inceleme 
+**Referans 2- Makale Adı:** *Fuzzy Logic Application to Searchable Cryptography*, Hassan B. Kazemian, Yang Ma, ~2020, Belirsiz (konferans), [London Metropolitan University / UL Security Lab] : fuzzy keyword search 
+**Referans 3- Makale Adı:** *New Cryptography Algorithm with Fuzzy Logic for Effective Data Communication*, K. GaneshKumar, D. Arivazhagan, 2016, Q3–Q4 (tahmini), [Indian Journal of Science and Technology] : fuzzy tabanlı şifreleme 
+**Referans 4- Makale Adı:** *A Fuzzy Logic-Based Cryptographic Framework for Real-Time Dynamic Key Generation*, Payal Khubchandani, Jyoti Khubchandani, Kavya Bhand, 2025, Belirsiz (preprint), [arXiv] : dinamik anahtar üretimi 
+**Referans 5- Makale Adı:** *RSA Cryptosystem with Fuzzy Set Theory for Encryption and Decryption*, Kamilah Abdullah, Sumarni Abu Bakar, Nor H. Kamis, Hardi Aliamis, 2017, Q3–Q4 (tahmini), [AIP Conference Proceedings] : RSA + fuzzy entegrasyonu 
+**Referans 6- Makale Adı:** *Performance Analysis of RC4 Symmetric and RSA Asymmetric Cryptographic Algorithms*, Renaldi, 2024, Q4 (tahmini), [AIoCSIT Journal] : RC4 vs RSA performans 
+**Referans 7- Makale Adı:** *Empirical Comparison Study of RC4 and RSA Algorithms*, Alhadi A. Klaib, Noura J. Jwan, 2025, Q4 (tahmini), [North African Journal of Scientific Publishing] : hız vs güvenlik 
+**Referans 8- Makale Adı:** *Mobil Cihazlarda RSA Algoritmasının Performans Optimizasyonu*, Tarık Yerlikaya, Hakan Gençoğlu, 2017, Q3–Q4 (tahmini), [Trakya University Journal of Engineering Sciences] : RSA optimizasyon 
+**Referans 9- Makale Adı:** *RSA ve RC4 Algoritmalarının Performans Karşılaştırması*, Tuğçe Yüksel, Büşra Özgün, 2021, Q4 (tahmini), [Aurum Journal of Engineering Systems and Architecture] : performans karşılaştırma 
